@@ -3,4 +3,5 @@ Git is free software distrubited under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Creating a new branch is quick and simple.
-BEFORE FIX BUG.
+BEFORE FIX BUG. => [origin/dev]
+CLONE_BRANCH. => clone[origin/dev]
